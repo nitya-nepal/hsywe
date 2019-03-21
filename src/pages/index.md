@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Royal Handicraft
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: HSYWE
+image: /img/img.png
+heading: About Us
+subheading: Himalayan Society for Youth and Women Empowerment (HSWYE)
 mainpitch:
-  title: Why Kaldi
+  title: About US
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -68,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
